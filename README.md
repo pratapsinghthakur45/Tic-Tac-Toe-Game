@@ -18,7 +18,8 @@ A simple web-based Tic Tac Toe game built with **HTML**, **CSS**, and **JavaScri
 
 ## 📸 Screenshot
 
-![Tic Tac Toe Screenshot](screenshot.png) <!-- Optional: Add your own screenshot and rename accordingly -->
+![Screenshot 2025-06-18 005001](https://github.com/user-attachments/assets/c9c18234-ad65-4fac-b253-8326dc05df87)
+
 
 ---
 
